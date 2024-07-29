@@ -1,8 +1,8 @@
 
 ## Intro  
-<div align="center">
+<p align="center">
 <img src="[https://drive.google.com/file/d/1H2Gt6nnAoD73aakDVXUeGSci8R4OcWgM/view?usp=drive_link](https://drive.google.com/file/d/1H2Gt6nnAoD73aakDVXUeGSci8R4OcWgM/view?usp=sharing)" align="center" height="600" width="600" />
-</div>  
+</p>  
   
 
 ### <div align="center">I'm Graham, a full-time computer engineering student with a specialization in software at the University of Alberta 📚 developing my skills both in and out of the classroom 👨‍💻</div>  
