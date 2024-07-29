@@ -1,19 +1,14 @@
 
-## Intro  
-<div align="center">
-<img src=![computer-programmer-cartoon](https://github.com/user-attachments/assets/d1542d5c-4319-478c-a886-b4f706a03c08) align="center" height="600" width="600" />
-</div>  ![computer-programmer-cartoon](https://github.com/user-attachments/assets/d1542d5c-4319-478c-a886-b4f706a03c08)
-
-  
-
 ### <div align="center">I'm Graham, a full-time computer engineering student with a specialization in software at the University of Alberta 📚 developing my skills both in and out of the classroom 👨‍💻</div>  
   
 
  🔖 I’m currently working on a company kanban website    
-  
 
-⚡ Fun fact: I would have went pro if it weren't for my injuries  
+ 
+ ⚡ Fun fact: I would have went pro if it weren't for my injuries  
   
+![computer-programmer-cartoon](https://github.com/user-attachments/assets/d1542d5c-4319-478c-a886-b4f706a03c08)
+
 
 <br/>  
 
