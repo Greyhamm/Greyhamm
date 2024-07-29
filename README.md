@@ -1,7 +1,7 @@
 
 ## Intro  
 <div align="center">
-<img src="![computer-programmer-cartoon](https://github.com/user-attachments/assets/d1542d5c-4319-478c-a886-b4f706a03c08)" align="center" height="600" width="600" />
+<img src=![computer-programmer-cartoon](https://github.com/user-attachments/assets/d1542d5c-4319-478c-a886-b4f706a03c08) align="center" height="600" width="600" />
 </div>  ![computer-programmer-cartoon](https://github.com/user-attachments/assets/d1542d5c-4319-478c-a886-b4f706a03c08)
 
   
