@@ -1,8 +1,9 @@
 
 ## Intro  
 <div align="center">
-<img src="[https://drive.google.com/file/d/1H2Gt6nnAoD73aakDVXUeGSci8R4OcWgM/view?usp=sharing](https://www.kindpng.com/picc/m/211-2110707_computer-programmer-cartoon-png-png-download-computer-programer.png)" align="center" height="600" width="600" />
+<img src="![computer-programmer-cartoon](https://github.com/user-attachments/assets/d1542d5c-4319-478c-a886-b4f706a03c08)" align="center" height="600" width="600" />
 </div>  
+
   
 
 ### <div align="center">I'm Graham, a full-time computer engineering student with a specialization in software at the University of Alberta 📚 developing my skills both in and out of the classroom 👨‍💻</div>  
