@@ -2,7 +2,7 @@
 ### <div align="center">I'm Graham, a full-time computer engineering student with a specialization in software at the University of Alberta 📚 developing my skills both in and out of the classroom 👨‍💻</div>  
   
 
- 🔖 I’m currently working on a company kanban website    
+ 🔖 I’m currently working on "dog silencer" a dog bark detection program. When a bark is detected an ultrasonic sound is emitted to deter dogs.  
 
  
  ⚡ Fun fact: I would have went pro if it weren't for my injuries  
