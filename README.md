@@ -1,8 +1,5 @@
 
 ### <div align="center">I'm Graham, a full-time computer engineering student with a specialization in software at the University of Alberta 📚 developing my skills both in and out of the classroom 👨‍💻</div>  
-  
-  
-![computer-programmer-cartoon](https://github.com/user-attachments/assets/d1542d5c-4319-478c-a886-b4f706a03c08)
 
 
 <br/>  
